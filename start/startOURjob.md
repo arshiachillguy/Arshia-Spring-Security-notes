@@ -1,10 +1,10 @@
-اسپرینگ سکیوریتی اصلا چیه ؟ فایده اش چیه ؟ و چرا باید یادش بگیریم ؟ 
+# What is Spring Security؟ What's the use؟ And why do we need to learn it؟ 
 
-حقیقتا این سوال ها اصلا برام پیش نیومد در مرحله اول من مستقیم بعد از اسپرینگ بوت بعد از شنیدن اسم اسپرینگ سیکوریتی به ذهنم رسید که بیام یادش بگیرم اما در حال حاضر اون سوالات برام پیش اومد پس رفتم از جاهای مختلف پرسجو کردم تا به جواب این سوالات برسم .
+Actually, these questions did not occur to me at all, in the first stage, immediately after Spring Boot, after hearing the name Spring Security, it occurred to me to come and learn it, but now those questions came to me, so I went to ask from different places to get the answers to these questions.
 
+<u>Spring Security is a framework for the security of Java applications, not any application. 
+When engineers realized that they had to protect their resources, what are these resources?
+Users' passwords, usernames, users' information, are generally among the other sources of accounting, or for example, blocking users' access (unauthorized access), providing security against common attacks, supporting authentication methods, etc. </u>
+With these explanations, it is clear why we should learn it. 
+The combination of spring boots, spring security and other important things that I want to learn in the future can help me make interesting things for you.
 
-اسپرینگ سکیوریتی یک فریم ورک برای امنیت برنامه های جاوا است نه هر برنامه ایی . 
-وقتی به وجود اومد که مهندس ها فهمیدن باید از منابعشون محافظ کنن حالا این منابع چیا هستن ؟
-رمز کاربر ها اسم کاربرا اطلاعات کاربران کلا جزو منابع حساب میشن دیگه یا مثلا مسدود کردن دسترسی کاربران (دسترسی غیر مجاز)، تامین امنیت دربرابر حملایت رایج ، پشتیبانی از روش های احراز هویت و ... 
-با این توضیحات معلومه دیگه چرا باید یادش بگیریم . 
-ترکیب اسپرینگ بوت ، اسپرینگ سکیوریتی و چیزای مهمی که در اینده هم میخوام یادبگیرم میتونه کمک کنه چیزای جالبی براتون درست کنم بریم که یواش یواش شروع کنیم .

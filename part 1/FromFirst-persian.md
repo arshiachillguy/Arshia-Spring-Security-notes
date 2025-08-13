@@ -53,7 +53,7 @@ DispatcherServlet : سرولت‌ها در Java EE (و Spring MVC) مسئول پ
 تریب فیلتر ها مهمه .
 نکته بعدی اینکه سرولت ها روی سرور قرار دارن و چیز جداگونه ایی نیستند .
 
-![hello](/home/arshiali/Documents/shot.png)
+![hello](shot.png)
 این هم یک مسیر کلی که قراره دونه دونه بریم سراغشون 
 
 

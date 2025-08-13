@@ -16,7 +16,7 @@
 
 سرور پیش فرض در سرور Spring Boot در صورت استقرار آسان Tomcat است. 
 
-[برای اطلاعات بیشتر این مقاله از وب سایت بهار را بخوانید](https://docs.spring.io/spring-boot/how-to/webserver.html)
+[برای اطلاعات بیشتر این مقاله از وب سایت اسپرینگ را بخوانید](https://docs.spring.io/spring-boot/how-to/webserver.html)
 
 **نکات کلیدی**
  Spring Security با همه این سرورها کار می کند اما از مکانیسم های متفاوت استفاده می کند. 

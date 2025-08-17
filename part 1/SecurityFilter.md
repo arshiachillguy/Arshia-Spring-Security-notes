@@ -1,4 +1,4 @@
-# فیلترهای امنیتی در جاوا (با تمرکز بر Spring Security)
+# security filters in java (with a Focus on spring security ) 
 
 In Java web applications, security filters are components that intercept HTTP requests and enforce security rules (authentication, authorization, headers, etc.) before they reach your application logic. They form the backbone of frameworks like Spring Security.
 
